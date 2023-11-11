@@ -53,7 +53,7 @@ A Keypair with ```RSA-4096``` Encryption method is created.
 
 After EC2 started, connect via SSH or EC2 Instance Connect.
 
-Use ```systemctl jenkins status```` to receive your jenkins password.
+Use ```systemctl jenkins status``` to receive your jenkins password.
 
 ![PW](Images/JenkinsPW.png)
 
